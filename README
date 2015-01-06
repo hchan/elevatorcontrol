@@ -1,0 +1,10 @@
+Requirements:
+------------
+The intent of the program would be to control an elevator system that has 2 elevator cars and 6 floors. The top floor is the Penthouse. 
+Only the single Penthouse tenant, landlord and Emergency Service (fire, police...) should have access to the Penthouse.
+
+
+About the Impl:
+--------------
+TestDriver is a sample simulator that creates an ElevatorControl which
+dispatches an elevator to the requested floor
